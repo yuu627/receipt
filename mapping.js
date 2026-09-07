@@ -50,12 +50,12 @@ window.BARCODE_MAP = [
   },
   {
     barcode: "00002",
-    photo: "photos/Can_you_see_me?.png",
+    photo: "photos/Can_you_see_me.png",
     label: "Can you see me?"
   },
   {
     barcode: "00003",
-    photo: "photos/Is_this_what_peace _feels_like?.png",
+    photo: "photos/Is_this_what_peace _feels_like.png",
     label: "Is this what peace feels like?"
   },
   {
